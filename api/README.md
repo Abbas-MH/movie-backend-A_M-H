@@ -129,13 +129,13 @@ Les contributions sont les bienvenues !
 
 ## Software Development Kit (SDK)
 
-*A venir*
+[moviedex](hhtps://pypi.org/project/moviedex)
 
 ---
 
 ## URL publique (Cloud) de l'API
 
-*A venir*
+[API Movielens sur Render](https://movie-backend-a-m-h.onrender.com)
 
 ## Auteur
 
